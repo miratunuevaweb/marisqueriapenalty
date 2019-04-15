@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Comfortaa:300,400,500,600,700);
+@import url(https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700);
+@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
 
@@ -29,7 +30,7 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -50,7 +51,7 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Comfortaa', display;
+  font-family: 'Quicksand', sans-serif;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -660,7 +661,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Comfortaa', display;
+  font-family: 'Quicksand', sans-serif;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -2025,18 +2026,12 @@ body {
 .cid-rnExGWnR2E {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #244774;
-  background: linear-gradient(45deg, #244774, #232323);
-}
-.cid-rnExGWnR2E .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
+  background-color: #ffffff;
+  background: linear-gradient(45deg, #ffffff, #ffffff);
 }
 @media (min-width: 992px) {
   .cid-rnExGWnR2E .mbr-figure {
     padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
@@ -2049,81 +2044,37 @@ body {
     text-align: center;
   }
 }
-.cid-rnuPsfxBrX {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+.cid-rnExGWnR2E H1 {
+  color: #351e08;
 }
-.cid-rnuPsfxBrX .testimonial-text {
-  font-style: italic;
-  color: #244774;
-  font-weight: 300;
+.cid-rnExGWnR2E .mbr-text,
+.cid-rnExGWnR2E .mbr-section-btn {
+  color: #351e08;
 }
-.cid-rnuPsfxBrX .mbr-author-name {
-  font-weight: bold;
-  color: #232;
+.cid-rnFQ04sdiK {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/marisquera-3-1024x683.jpg");
 }
-.cid-rnuPsfxBrX .mbr-author-desc {
-  color: #232;
+.cid-rnFQ04sdiK .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rnFQ04sdiK .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
 }
 @media (max-width: 991px) {
-  .cid-rnuPsfxBrX .mbr-figure,
-  .cid-rnuPsfxBrX img {
-    max-height: 300px;
-    width: auto;
-    margin: auto;
+  .cid-rnFQ04sdiK .mbr-figure {
+    padding-bottom: 3rem;
   }
 }
-.cid-rnv3f0fqn4 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background: #ffffff;
-}
-.cid-rnv3f0fqn4 .media-container-row {
-  margin: 0 auto;
-  align-items: stretch;
-  -webkit-align-items: stretch;
-}
-.cid-rnv3f0fqn4 .media-container-row .img-item {
-  display: -webkit-flex;
-  flex-direction: column;
-  justify-content: center;
-  position: relative;
-  width: 100%;
-  z-index: 1;
-  -webkit-flex-direction: column;
-  -webkit-justify-content: center;
-}
-.cid-rnv3f0fqn4 .media-container-row .img-item .img-cont {
-  position: relative;
-  overflow: hidden;
-}
-.cid-rnv3f0fqn4 .media-container-row .img-item .img-cont img {
-  width: 100%;
-}
-.cid-rnv3f0fqn4 .media-container-row .img-item .img-cont .img-caption {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  z-index: 2;
-  padding: 1rem 1rem;
-  word-break: break-word;
-}
-.cid-rnv3f0fqn4 .media-container-row .img-item .img-cont .img-caption p {
-  margin-bottom: 0;
-}
-.cid-rnv3f0fqn4 .media-container-row .img-item.item1 {
-  padding: 0 2rem 0 0;
-}
-@media (max-width: 992px) {
-  .cid-rnv3f0fqn4 .img-item {
-    width: 100% !important;
-  }
-  .cid-rnv3f0fqn4 .img-item.item1 {
-    width: 100%;
-    flex-basis: initial !important;
-    padding: 0 0 2rem 0 !important;
-    -webkit-flex-basis: initial !important;
+@media (max-width: 767px) {
+  .cid-rnFQ04sdiK .mbr-text {
+    text-align: center;
   }
 }
 .cid-rnExg0Dx60 {
@@ -2134,17 +2085,20 @@ body {
 .cid-rnExg0Dx60 .mbr-text {
   color: #767676;
 }
-.cid-rnExbb7URM {
-  padding-top: 0px;
-  padding-bottom: 0px;
+.cid-rnFS1HVqbO {
+  padding-top: 45px;
+  padding-bottom: 45px;
   background: #ffffff;
 }
-.cid-rnExbb7URM .media-container-row {
+.cid-rnFS1HVqbO .images-container.container-fluid {
+  padding: 0;
+}
+.cid-rnFS1HVqbO .media-container-row {
   margin: 0 auto;
   align-items: stretch;
   -webkit-align-items: stretch;
 }
-.cid-rnExbb7URM .media-container-row .img-item {
+.cid-rnFS1HVqbO .media-container-row .img-item {
   display: -webkit-flex;
   flex-direction: column;
   justify-content: center;
@@ -2154,27 +2108,27 @@ body {
   -webkit-flex-direction: column;
   -webkit-justify-content: center;
 }
-.cid-rnExbb7URM .media-container-row .img-item img {
+.cid-rnFS1HVqbO .media-container-row .img-item img {
   width: 100%;
   min-height: 1px;
 }
-.cid-rnExbb7URM .media-container-row .img-item .img-caption {
-  background: #efefef;
+.cid-rnFS1HVqbO .media-container-row .img-item .img-caption {
+  background: #ffffff;
   z-index: 2;
   padding: 1rem 1rem;
   word-break: break-word;
 }
-.cid-rnExbb7URM .media-container-row .img-item .img-caption p {
+.cid-rnFS1HVqbO .media-container-row .img-item .img-caption p {
   margin-bottom: 0;
 }
-.cid-rnExbb7URM .media-container-row .img-item.item1 {
+.cid-rnFS1HVqbO .media-container-row .img-item.item1 {
   padding: 0 2rem 0 0;
 }
 @media (max-width: 992px) {
-  .cid-rnExbb7URM .img-item {
+  .cid-rnFS1HVqbO .img-item {
     width: 100% !important;
   }
-  .cid-rnExbb7URM .img-item.item1 {
+  .cid-rnFS1HVqbO .img-item.item1 {
     width: 100%;
     flex-basis: initial !important;
     padding: 0 0 2rem 0 !important;
@@ -2353,10 +2307,10 @@ body {
   line-height: 44px;
 }
 .cid-rnEwJM0fOt .btn-social {
-  border-color: #244774;
+  border-color: #351e08;
 }
 .cid-rnEwJM0fOt .btn-social:hover {
-  background: #244774;
+  background: #351e08;
 }
 .cid-rnEwJM0fOt .btn-social:hover i.socicon {
   color: #ffffff !important;
@@ -2368,12 +2322,12 @@ body {
 }
 .cid-rnEwJM0fOt .btn-social,
 .cid-rnEwJM0fOt .mbr-section-title {
-  color: #244774;
+  color: #351e08;
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #244774;
+  background-color: #351e08;
 }
 @media (max-width: 767px) {
   .cid-qTkAaeaxX5 .content {
