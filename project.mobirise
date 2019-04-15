@@ -1318,7 +1318,7 @@
               "margin-bottom": "2rem"
             },
             ".mbr-section-subtitle": {
-              "color": "#767676"
+              "color": "#162941"
             },
             "a:not([href]):not([tabindex])": {
               "color": "#fff",
@@ -1329,6 +1329,9 @@
             },
             "textarea.form-control": {
               "min-height": "188px"
+            },
+            "LABEL": {
+              "color": "#162941"
             }
           },
           "_name": "form1",

@@ -2357,7 +2357,7 @@ body {
   margin-bottom: 2rem;
 }
 .cid-rnGuTxIlR0 .mbr-section-subtitle {
-  color: #767676;
+  color: #162941;
 }
 .cid-rnGuTxIlR0 a:not([href]):not([tabindex]) {
   color: #fff;
@@ -2368,6 +2368,9 @@ body {
 }
 .cid-rnGuTxIlR0 textarea.form-control {
   min-height: 188px;
+}
+.cid-rnGuTxIlR0 LABEL {
+  color: #162941;
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
