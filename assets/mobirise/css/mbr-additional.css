@@ -2051,10 +2051,18 @@ body {
 .cid-rnExGWnR2E .mbr-section-btn {
   color: #351e08;
 }
+.cid-rnExg0Dx60 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rnExg0Dx60 .mbr-text {
+  color: #767676;
+}
 .cid-rnFQ04sdiK {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/marisquera-3-1024x683.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1200.jpg");
 }
 .cid-rnFQ04sdiK .media-container-row {
   flex-direction: row-reverse;
@@ -2076,14 +2084,6 @@ body {
   .cid-rnFQ04sdiK .mbr-text {
     text-align: center;
   }
-}
-.cid-rnExg0Dx60 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rnExg0Dx60 .mbr-text {
-  color: #767676;
 }
 .cid-rnFS1HVqbO {
   padding-top: 45px;
@@ -2243,6 +2243,41 @@ body {
   }
   .cid-rnEx1LpzfX .wrapper {
     padding-top: 1rem;
+  }
+}
+.cid-rnFW5vsnPh {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rnFW5vsnPh .title {
+  padding-bottom: 2.5rem;
+}
+.cid-rnFW5vsnPh .mbr-text {
+  color: #767676;
+  margin: 0;
+  padding-top: 0.5rem;
+}
+.cid-rnFW5vsnPh .iconfont-wrapper {
+  display: flex;
+  align-items: center;
+  width: 2rem;
+  height: 2rem;
+  margin-right: 2rem;
+}
+.cid-rnFW5vsnPh .iconfont-wrapper .amp-iconfont {
+  font-size: 2rem;
+}
+.cid-rnFW5vsnPh .wrapper {
+  display: flex;
+  padding: 1rem 0;
+}
+.cid-rnFW5vsnPh .wrapper .b-info {
+  width: 100%;
+}
+@media (max-width: 767px) {
+  .cid-rnFW5vsnPh .iconfont-wrapper {
+    display: none;
   }
 }
 .cid-rnEmIbJvzv {
