@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "Penalty.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -74,7 +74,7 @@
     "versionPublish": "4.9.7"
   },
   "pages": {
-    "Penalty.html": {
+    "home.html": {
       "settings": {
         "main": true,
         "title": "Marisquería Penalty",
